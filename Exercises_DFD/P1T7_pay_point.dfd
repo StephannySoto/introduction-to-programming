@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'maked: Stephanny Soto'
+4
+1
+38
+'Input the price of the first product'
+5
+1
+6
+firstP
+4
+1
+39
+'Input the price of the second product'
+5
+1
+7
+secondP
+4
+1
+38
+'Input the price of the third product'
+5
+1
+6
+thirdP
+4
+1
+39
+'Input the price of the fourth product'
+5
+1
+7
+fourthP
+6
+3
+5
+price
+29
+firstP+secondP+thirdP+fourthP
+3
+IVA
+10
+price*0.19
+11
+total_price
+9
+IVA+price
+4
+1
+23
+'The price is:' , price
+4
+1
+18
+'The IVA is:', IVA
+4
+1
+35
+'The total price is:' , total_price
+1

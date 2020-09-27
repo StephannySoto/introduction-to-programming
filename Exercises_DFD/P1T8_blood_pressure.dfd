@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'P1T8: determine blood pressure, maker: Stephanny Soto'
+4
+1
+30
+'Input the systolic pressure;'
+5
+1
+5
+dataP
+7
+0
+1
+8
+dataP<=0
+7
+0
+1
+12
+ dataP < 119
+7
+0
+1
+11
+dataP < 139
+7
+0
+1
+9
+dataP<159
+4
+1
+17
+'Go the hospital'
+13
+4
+1
+32
+'You have grade 1 hypertension' 
+13
+13
+4
+1
+26
+'You have prehypertension'
+13
+13
+4
+1
+32
+'You have normal blood pressure'
+13
+13
+4
+1
+15
+'You are death'
+13
+1

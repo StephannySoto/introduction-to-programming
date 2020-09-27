@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+79
+'P1T19: Average of N numbers. Maked: Stephanny Soto.
+Input the total numbers.'
+5
+1
+1
+N
+6
+1
+3
+SUM
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+4
+1
+17
+'Input the value'
+5
+1
+5
+VALUE
+6
+1
+3
+SUM
+9
+SUM+VALUE
+10
+6
+1
+7
+AVERAGE
+5
+SUM/N
+4
+1
+57
+'The summatory is: ',SUM, ' and the average is: ',AVERAGE
+1

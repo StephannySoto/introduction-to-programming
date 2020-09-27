@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'P1T10: Semester grades. Maked: Stephanny Soto.'
+4
+1
+26
+'Input the 1st exam grade'
+5
+1
+2
+n1
+4
+1
+26
+'Input the 2nd exam grade'
+5
+1
+2
+n2
+4
+1
+26
+'Input the 3rd exam grade'
+5
+1
+2
+n3
+4
+1
+26
+'Input the 4th exam grade'
+5
+1
+2
+n4
+6
+3
+3
+pn1
+6
+n1*0.2
+3
+pn2
+7
+n2*0.25
+3
+pn3
+7
+n3*0.25
+6
+2
+3
+pn4
+6
+n4*0.3
+2
+nt
+15
+pn1+pn2+pn3+pn4
+4
+1
+33
+'The final semester grade is ',nt
+1

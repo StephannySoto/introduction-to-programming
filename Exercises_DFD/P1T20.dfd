@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'P1T20: Producte. Maker: Stephanny Soto.'
+4
+1
+33
+'Input the number of the values:'
+5
+1
+1
+n
+6
+1
+3
+sum
+1
+0
+8
+1
+1
+I
+1
+1
+1
+1
+1
+n
+1
+1
+1
+4
+1
+21
+'Imput the value ', I
+5
+1
+5
+value
+6
+1
+3
+sum
+9
+sum+value
+10
+6
+1
+5
+total
+16
+sum + (sum*0.19)
+4
+1
+60
+'The gross value is ', sum, 'and the total value is ', total
+1

@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+41
+'P1T16: Calendar. Maker: Stephanny Soto.'
+4
+1
+25
+'Imput the month number.'
+5
+1
+5
+month
+7
+0
+1
+19
+month<1 or month>12
+7
+0
+1
+7
+month=2
+7
+0
+1
+75
+month=1 or month=3 or month=5 or month=7 or month=8 or month=10 or month=12
+4
+1
+26
+'This month have 30 days.'
+13
+4
+1
+26
+'This month have 31 days.'
+13
+13
+4
+1
+26
+'This month have 28 days.'
+13
+13
+4
+1
+7
+'ERROR'
+13
+1

@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+54
+'P1T17: Salary of an employee. Maker: Stephanny Soto.'
+4
+1
+20
+'Input your salary.'
+5
+1
+6
+salary
+4
+1
+37
+'Input the days worked in the month.'
+5
+1
+3
+day
+7
+0
+1
+15
+day<1 or day>30
+6
+1
+6
+SALARY
+15
+(salary/30)*day
+4
+1
+25
+'Your salary is: ',SALARY
+13
+4
+1
+7
+'ERROR'
+13
+1
